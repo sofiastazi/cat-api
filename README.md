@@ -1,2 +1,13 @@
-#Práctica de API con Cat-API
-Este es un ejercicio para practicar el consumo de datos de una API, es una página sencilla con un botón que, al ser clickeado, despliega una tarjeta de Bootstrap con la imagen de un gato tomada de manera aleatoria desde la API TheCatAPI.
+# Proyecto: Gatitos para alegrarte
+https://sofiastazi.github.io/cat-api/
+
+## Objetivos de Aprendizaje
+Este mini-proyecto tiene como objetivo profundizar en los conceptos relacionados a las APIs y practicar el uso de `fetch` para el consumo de datos desde un API en formato JSON.
+
+## Descripción del Proyecto
+Esta es una página web sencilla, con un botón que despliega una tarjeta de Bootstrap con una imagen aleatoria de un gato, tomada de la API de The Cat API(https://thecatapi.com/).
+
+## Tecnologías Utilizadas
+- HTML
+- CSS (Bootstrap)
+- JavaScript (Fetch API)
