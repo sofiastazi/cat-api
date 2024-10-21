@@ -1,5 +1,5 @@
 # Proyecto: Gatitos para alegrarte
-https://sofiastazi.github.io/cat-api/
+GitHub Pages: https://sofiastazi.github.io/cat-api/
 
 ## Objetivos de Aprendizaje
 Este mini-proyecto tiene como objetivo profundizar en los conceptos relacionados a las APIs y practicar el uso de `fetch` para el consumo de datos desde un API en formato JSON.
